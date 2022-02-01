@@ -1,0 +1,39 @@
+Statistics Assignment 1
+
+1. What exactly is the difference between descriptive and inferential statistics?
+Ans: descriptive :- process of collction and summarizing the data.(data can be population or sample data)
+                    Descriptive statistics follows 
+                    Measure of Centeral  Tendency
+                        - Mean
+                        - Mode
+                        - Median
+                    Measure of dispersion
+                        - Variance
+                        - Standard Deviation
+    inferential :- In inferential we take a sample data from the population to analyse the data, and can predict the same with the help of sample data.
+                    example:
+                            Suppose there are 500 students in a college (population data), we can take 50 students data as a sample and can analyse the height of 500 data on the basis of sample data.
+                    population denote by N
+                    Sample denote by n
+
+
+2. I'm not sure what is the difference between a sample and a population?
+ANS: Sample :- 
+     population :- population can be defined as collction of complete data.
+     sample :- sample can be defined as a part of data exists inside the collction of data (population)
+     example:- N = exam score data of 2000 students
+               n = data of 500 students, through 500 data of the students we can predict the result of 2000 students
+
+3. What distinguishes descriptive statistics from other types of statistics?
+ANS: Descriptive Statistics:
+        - Descriptive statistics is a process of collction and summarizing the data, it mainly focus on the summarizing the information from population data or sample data.
+
+4. What is the difference between quantitative and qualitative data?
+ANS: qualitative :- 
+        - Discrete data - conatains whole numbers only, example:- How many childres does A have?
+        - continuous data - Contains decimal number,whole number etc , example:- Height of the students. 
+
+5. What is the definition of a percentile?
+
+ANS:= percentile is a value below which certain observation lie.
+      percentile = (number of values below x/total number of values) * 100
