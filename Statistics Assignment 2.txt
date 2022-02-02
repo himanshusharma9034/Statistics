@@ -1,0 +1,25 @@
+Statistics Assignment 2
+
+1. How can we figure out what the interquartile range is?
+ANS: IQR = Q3 - Q1
+        Lower fence = Q1-1.5IQR
+        Higher fence= Q3+1.5IQR
+
+2. What exactly is the value of the 5-number theory?
+ANS:
+    Minimum
+    First Quartile - Q1
+    Median
+    Third Quartile - Q3
+    Maximum
+
+3. What is the relationship between standard deviation and variance?
+ANS:- Standard deviation is the square root of the variance, variance is the average of all data points within a group. Standard Deviation is given by distance from the mean.
+        
+4. What does the difference between variance and standard deviation mean?
+ANS: Variance helps in finding the distribution of the data from the mean, whereas standard deviation also helps in finnding the distribution of the data but it given more clarity about the deviation of the data from the mean.
+
+5. When is it appropriate to refer to a skewed data distribution?
+ANS: :
+Since in normal distribution the both sides are symmetric so If one side is longer than another, the distribution is said to be skewed. and the skewed distribution is said to be 
+asymmetric distribution .In a normal or gaussion distribution the mean and the median are the same while the mean and median in case of  skewed distribution become different.
